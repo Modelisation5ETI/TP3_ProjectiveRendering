@@ -34,7 +34,7 @@ qtcreator ../TP3_ProjectiveRendering
 This program generates images in the build directory to illustrate the
 different steps of the rendering pipeline
 
- <img src="./Screenshots/dino.png" alt="FBO" width="200" height="200" />
+ <img src="./Screenshots/dino.png" alt="ProjectiveRendering" width="200" height="200" />
 
  ```
  ./ProjectiveRendering
